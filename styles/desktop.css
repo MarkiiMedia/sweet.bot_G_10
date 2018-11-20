@@ -39,7 +39,7 @@ nav a:hover {
 /* Anderledes padding top her da afstanden jo er anderledes frem for standard.css */
 article {
 	height: auto;
-	min-height: 600px;
+	min-height: 700px;
 	padding-top: 60px;
 }
 
