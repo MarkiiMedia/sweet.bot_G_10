@@ -379,7 +379,7 @@ header {
   margin:0 auto;
 }
 header{display:inline-block; font-size:12px;}
-span{padding-left:20px;}
+span{padding-left:0px;}
 a{color:#336699;}
 
 nav {
