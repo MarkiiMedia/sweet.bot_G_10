@@ -58,3 +58,12 @@ article {
 .icon {
 	display: none;
 }
+
+/* hamburger leg */
+.hamburger {
+	display: none;
+}
+
+.cross {
+	display: none;
+}
