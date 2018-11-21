@@ -97,6 +97,10 @@ nav {
 	background-image:url(../images/menu01.png);
     }
 
+.nav_points {
+	font-size: 16px;
+}
+
 
 article {
 	height: auto;
