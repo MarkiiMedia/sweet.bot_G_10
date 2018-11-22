@@ -322,6 +322,11 @@ header {
   right: 0;
 }
 
+.button_text {
+	color: white;
+	text-decoration: none;
+}
+
 
 /* Hamburger leg */
 
